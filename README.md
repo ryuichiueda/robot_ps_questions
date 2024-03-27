@@ -13,7 +13,8 @@
 
 ## ライセンス
 
-![](./by-sa.webp)
+クリエイティブ・コモンズ・ライセンス（CC BY-SA 4.0）のもと、共有、翻案できます。
 
-CC BY-SA 4.0
-https://creativecommons.org/licenses/by-sa/4.0/deed.ja
+![https://creativecommons.org/licenses/by-sa/4.0/deed.ja](./by-sa.webp)
+
+
