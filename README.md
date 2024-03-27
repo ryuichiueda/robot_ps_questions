@@ -15,6 +15,7 @@
 
 クリエイティブ・コモンズ・ライセンス（CC BY-SA 4.0）のもと、共有、翻案できます。
 
-![https://creativecommons.org/licenses/by-sa/4.0/deed.ja](./by-sa.webp)
+[![](./by-sa.webp)](https://creativecommons.org/licenses/by-sa/4.0/deed.ja)
+
 
 
